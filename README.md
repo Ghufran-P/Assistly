@@ -244,8 +244,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
 
-Built with ❤️ using Streamlit, Ollama, ChromaDB, and the Kaggle API.
-
-</div>
