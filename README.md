@@ -24,13 +24,13 @@ Ask a question → it searches Kaggle for relevant datasets → indexes them int
 
 | Home / Empty State | Live Pipeline in Action |
 |---|---|
-| ![Assistly home screen](docs/screenshots/home.png) | ![Assistly pipeline running](docs/screenshots/pipeline.png) |
+| <img width="1848" height="977" alt="eg11" src="https://github.com/user-attachments/assets/6b4ac45d-a74d-4fe2-9ef0-231684acd1fd" />
+ | <img width="933" height="261" alt="eg12" src="https://github.com/user-attachments/assets/e46c3fa3-9174-4d3d-aea4-6a4e7d5f379b" />
+ |
 
 ## 🎬 Demo
 
-> Replace with a real GIF — tools like [ScreenToGif](https://www.screentogif.com/) (Windows) or [Kap](https://getkap.co/) (Mac) work well. Save it under `docs/screenshots/demo.gif`.
-
-![Assistly demo](docs/screenshots/demo.gif)
+<img width="800" height="450" alt="projectdemo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/6142afa6-89dc-4932-a8b6-39a32e7dcfe1" />
 
 ---
 
