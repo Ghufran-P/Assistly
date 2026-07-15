@@ -1,0 +1,6 @@
+streamlit
+kaggle
+pandas
+chromadb
+sentence-transformers
+ollama
