@@ -20,7 +20,6 @@ Ask a question → it searches Kaggle for relevant datasets → indexes them int
 
 ## 📸 Screenshots
 
-> Replace these with real screenshots before publishing — save them under `docs/screenshots/` and update the paths below.
 
 | Home / Empty State | Live Pipeline in Action |
 |---|---|
